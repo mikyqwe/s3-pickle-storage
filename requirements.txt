@@ -1,0 +1,3 @@
+smart_open
+cloudpickle
+boto3
